@@ -2,7 +2,7 @@
 
 ## Description
 
-A beefed up Note Taker using Express.js that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+A better Note Taker using Express.js that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file with Heroku.
 
 ### **Tasks completed**
 
@@ -53,20 +53,18 @@ node server.js
 
 ## Screenshots and Video Link of application
 
-![Gear Second Screenshot](./screenshots/gear-second-note-taker.gif)
+![Gear Second Screenshot](./screenshots/note-taker.gif)
 
 
 ### **Links**
 
-[Link to the code repository](https://github.com/MrTofuuu/gear-second-note-taker)
+[Link to the code repository](https://github.com/kylepng/note-taker)
 
-[Link to Heroku app](https://gear-second-note-taker.herokuapp.com/)
+[Link to Heroku app]()
 
 ## Credits
 
-* Chris Stallcup
-* Corbin Bell
-* Mini Project from the boot camp
+* Kyle Kumar 
 
 ### References and tutorials utilized
 * [https://www.markdownguide.org/basic-syntax/](https://www.markdownguide.org/basic-syntax/)
